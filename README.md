@@ -1,6 +1,8 @@
 # CryptoRanking
 Projet de site internet de suivi du cours de cryptomonnaies.
-lien du site live : https://cryptoranking.herokuapp.com/
+lien du site live : https://cryptoranking.herokuapp.com/ 
+
+version finale : https://aws-final.herokuapp.com/
 
 Projet réalisé par :
 - BARBIER Yann
